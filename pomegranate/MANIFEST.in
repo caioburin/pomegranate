@@ -1,0 +1,3 @@
+include *.txt
+include pomegranate/*.c
+include pomegranate/*.pxd
